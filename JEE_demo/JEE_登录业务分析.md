@@ -1,6 +1,6 @@
 1.投递简历 -- HR (SpringBoot SpringCloud RBMQ,Redis) 
 
-学校- 项目 （5-8s）
+学校- 项目 （5-8s）OKOKOK
 
 
 
